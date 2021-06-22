@@ -11,6 +11,7 @@ As I said before, I do not have a lot of projects. I'm working on a large Discor
   - `Colour`: Orange (#ffa500);
   - `Games`: Minecraft, osu!, Watch Dogs 2;
   - `Programming languages`: JavaScript, TypeScript, Java;
+  - `Operating Systems`: probably macOS & Linux;
   - `Languages spoken`: English, Russian, German, French;
 
 ## GitHub Statistics 📊
